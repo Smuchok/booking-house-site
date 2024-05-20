@@ -1,0 +1,1 @@
+venv\Scripts\activate.bat & python site\damba\manage.py runserver 192.168.0.112:8000

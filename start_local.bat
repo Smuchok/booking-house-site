@@ -1,0 +1,1 @@
+venv\Scripts\activate.bat & python site\damba\manage.py runserver
